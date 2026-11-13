@@ -12,6 +12,7 @@ body {
     padding: 20px;
     background-color: #EBE8E4;
     font-family: "Nunito", sans-serif;
+    overflow-x: hidden;
 }
 
 header {
@@ -227,4 +228,29 @@ footer{
     border-radius: 50%;
     background-color: #d6d6d6;
     align-self: flex-end; 
+}
+
+#about-us{
+    margin-top: 48px;
+    width: 1024px;
+}
+
+#reviews{
+    display: flex;
+    justify-content: space-between;
+}
+
+.review{
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    height: 164px;
+    aspect-ratio: 2/1;
+}
+
+#about-us-card{
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    width: 1024px;
+    aspect-ratio: 7/3;
 }
