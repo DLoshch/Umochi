@@ -5,6 +5,9 @@
 
 body {
     display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-direction: column;
     justify-content: center;
     padding: 20px;
     background-color: #EBE8E4;
@@ -15,7 +18,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 50%;
+    width: 1024px;
     padding: 20px;
     background-color: #fff;
     border-radius: 1000px;
@@ -52,8 +55,53 @@ nav {
     font-weight: 900;
 }
 
+#footer-logo{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 900;
+}
+
 #cart {
-    padding: 10px 20px;
-    background-color: #F2C230;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
     border-radius: 1000px;
+}
+
+#cart img{
+    background-color: #F2C230;
+    padding: 10px;
+    border-radius: 1000px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1024px;
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 1000px;
+}
+
+#offers-scroller{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 1920px;
+    height: 512px;
+    mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+}
+
+.slide{
+    height: 486px;
+    aspect-ratio: 2/1;
+    border-radius: 40px;
+    background-color: #FFFFFF;
+}
+
+#active-slide{
+    height: 512px;
 }
