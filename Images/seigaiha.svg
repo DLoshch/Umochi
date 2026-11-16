@@ -1,0 +1,611 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='384' height='156' viewBox='0 0 384 156' xmlns:c2pa="http://c2pa.org/manifest">
+<g fill='#fff' stroke='#111' stroke-width='1.5'>
+<circle cx='-24' cy='0' r='24'/>
+<circle cx='-24' cy='0' r='18' fill='none'/>
+<circle cx='-24' cy='0' r='12' fill='none'/>
+<circle cx='-24' cy='0' r='6' fill='none'/>
+<circle cx='24' cy='0' r='24'/>
+<circle cx='24' cy='0' r='18' fill='none'/>
+<circle cx='24' cy='0' r='12' fill='none'/>
+<circle cx='24' cy='0' r='6' fill='none'/>
+<circle cx='72' cy='0' r='24'/>
+<circle cx='72' cy='0' r='18' fill='none'/>
+<circle cx='72' cy='0' r='12' fill='none'/>
+<circle cx='72' cy='0' r='6' fill='none'/>
+<circle cx='120' cy='0' r='24'/>
+<circle cx='120' cy='0' r='18' fill='none'/>
+<circle cx='120' cy='0' r='12' fill='none'/>
+<circle cx='120' cy='0' r='6' fill='none'/>
+<circle cx='168' cy='0' r='24'/>
+<circle cx='168' cy='0' r='18' fill='none'/>
+<circle cx='168' cy='0' r='12' fill='none'/>
+<circle cx='168' cy='0' r='6' fill='none'/>
+<circle cx='216' cy='0' r='24'/>
+<circle cx='216' cy='0' r='18' fill='none'/>
+<circle cx='216' cy='0' r='12' fill='none'/>
+<circle cx='216' cy='0' r='6' fill='none'/>
+<circle cx='264' cy='0' r='24'/>
+<circle cx='264' cy='0' r='18' fill='none'/>
+<circle cx='264' cy='0' r='12' fill='none'/>
+<circle cx='264' cy='0' r='6' fill='none'/>
+<circle cx='312' cy='0' r='24'/>
+<circle cx='312' cy='0' r='18' fill='none'/>
+<circle cx='312' cy='0' r='12' fill='none'/>
+<circle cx='312' cy='0' r='6' fill='none'/>
+<circle cx='360' cy='0' r='24'/>
+<circle cx='360' cy='0' r='18' fill='none'/>
+<circle cx='360' cy='0' r='12' fill='none'/>
+<circle cx='360' cy='0' r='6' fill='none'/>
+<circle cx='408' cy='0' r='24'/>
+<circle cx='408' cy='0' r='18' fill='none'/>
+<circle cx='408' cy='0' r='12' fill='none'/>
+<circle cx='408' cy='0' r='6' fill='none'/>
+<circle cx='0' cy='12' r='24'/>
+<circle cx='0' cy='12' r='18' fill='none'/>
+<circle cx='0' cy='12' r='12' fill='none'/>
+<circle cx='0' cy='12' r='6' fill='none'/>
+<circle cx='48' cy='12' r='24'/>
+<circle cx='48' cy='12' r='18' fill='none'/>
+<circle cx='48' cy='12' r='12' fill='none'/>
+<circle cx='48' cy='12' r='6' fill='none'/>
+<circle cx='96' cy='12' r='24'/>
+<circle cx='96' cy='12' r='18' fill='none'/>
+<circle cx='96' cy='12' r='12' fill='none'/>
+<circle cx='96' cy='12' r='6' fill='none'/>
+<circle cx='144' cy='12' r='24'/>
+<circle cx='144' cy='12' r='18' fill='none'/>
+<circle cx='144' cy='12' r='12' fill='none'/>
+<circle cx='144' cy='12' r='6' fill='none'/>
+<circle cx='192' cy='12' r='24'/>
+<circle cx='192' cy='12' r='18' fill='none'/>
+<circle cx='192' cy='12' r='12' fill='none'/>
+<circle cx='192' cy='12' r='6' fill='none'/>
+<circle cx='240' cy='12' r='24'/>
+<circle cx='240' cy='12' r='18' fill='none'/>
+<circle cx='240' cy='12' r='12' fill='none'/>
+<circle cx='240' cy='12' r='6' fill='none'/>
+<circle cx='288' cy='12' r='24'/>
+<circle cx='288' cy='12' r='18' fill='none'/>
+<circle cx='288' cy='12' r='12' fill='none'/>
+<circle cx='288' cy='12' r='6' fill='none'/>
+<circle cx='336' cy='12' r='24'/>
+<circle cx='336' cy='12' r='18' fill='none'/>
+<circle cx='336' cy='12' r='12' fill='none'/>
+<circle cx='336' cy='12' r='6' fill='none'/>
+<circle cx='384' cy='12' r='24'/>
+<circle cx='384' cy='12' r='18' fill='none'/>
+<circle cx='384' cy='12' r='12' fill='none'/>
+<circle cx='384' cy='12' r='6' fill='none'/>
+<circle cx='-24' cy='24' r='24'/>
+<circle cx='-24' cy='24' r='18' fill='none'/>
+<circle cx='-24' cy='24' r='12' fill='none'/>
+<circle cx='-24' cy='24' r='6' fill='none'/>
+<circle cx='24' cy='24' r='24'/>
+<circle cx='24' cy='24' r='18' fill='none'/>
+<circle cx='24' cy='24' r='12' fill='none'/>
+<circle cx='24' cy='24' r='6' fill='none'/>
+<circle cx='72' cy='24' r='24'/>
+<circle cx='72' cy='24' r='18' fill='none'/>
+<circle cx='72' cy='24' r='12' fill='none'/>
+<circle cx='72' cy='24' r='6' fill='none'/>
+<circle cx='120' cy='24' r='24'/>
+<circle cx='120' cy='24' r='18' fill='none'/>
+<circle cx='120' cy='24' r='12' fill='none'/>
+<circle cx='120' cy='24' r='6' fill='none'/>
+<circle cx='168' cy='24' r='24'/>
+<circle cx='168' cy='24' r='18' fill='none'/>
+<circle cx='168' cy='24' r='12' fill='none'/>
+<circle cx='168' cy='24' r='6' fill='none'/>
+<circle cx='216' cy='24' r='24'/>
+<circle cx='216' cy='24' r='18' fill='none'/>
+<circle cx='216' cy='24' r='12' fill='none'/>
+<circle cx='216' cy='24' r='6' fill='none'/>
+<circle cx='264' cy='24' r='24'/>
+<circle cx='264' cy='24' r='18' fill='none'/>
+<circle cx='264' cy='24' r='12' fill='none'/>
+<circle cx='264' cy='24' r='6' fill='none'/>
+<circle cx='312' cy='24' r='24'/>
+<circle cx='312' cy='24' r='18' fill='none'/>
+<circle cx='312' cy='24' r='12' fill='none'/>
+<circle cx='312' cy='24' r='6' fill='none'/>
+<circle cx='360' cy='24' r='24'/>
+<circle cx='360' cy='24' r='18' fill='none'/>
+<circle cx='360' cy='24' r='12' fill='none'/>
+<circle cx='360' cy='24' r='6' fill='none'/>
+<circle cx='408' cy='24' r='24'/>
+<circle cx='408' cy='24' r='18' fill='none'/>
+<circle cx='408' cy='24' r='12' fill='none'/>
+<circle cx='408' cy='24' r='6' fill='none'/>
+<circle cx='0' cy='36' r='24'/>
+<circle cx='0' cy='36' r='18' fill='none'/>
+<circle cx='0' cy='36' r='12' fill='none'/>
+<circle cx='0' cy='36' r='6' fill='none'/>
+<circle cx='48' cy='36' r='24'/>
+<circle cx='48' cy='36' r='18' fill='none'/>
+<circle cx='48' cy='36' r='12' fill='none'/>
+<circle cx='48' cy='36' r='6' fill='none'/>
+<circle cx='96' cy='36' r='24'/>
+<circle cx='96' cy='36' r='18' fill='none'/>
+<circle cx='96' cy='36' r='12' fill='none'/>
+<circle cx='96' cy='36' r='6' fill='none'/>
+<circle cx='144' cy='36' r='24'/>
+<circle cx='144' cy='36' r='18' fill='none'/>
+<circle cx='144' cy='36' r='12' fill='none'/>
+<circle cx='144' cy='36' r='6' fill='none'/>
+<circle cx='192' cy='36' r='24'/>
+<circle cx='192' cy='36' r='18' fill='none'/>
+<circle cx='192' cy='36' r='12' fill='none'/>
+<circle cx='192' cy='36' r='6' fill='none'/>
+<circle cx='240' cy='36' r='24'/>
+<circle cx='240' cy='36' r='18' fill='none'/>
+<circle cx='240' cy='36' r='12' fill='none'/>
+<circle cx='240' cy='36' r='6' fill='none'/>
+<circle cx='288' cy='36' r='24'/>
+<circle cx='288' cy='36' r='18' fill='none'/>
+<circle cx='288' cy='36' r='12' fill='none'/>
+<circle cx='288' cy='36' r='6' fill='none'/>
+<circle cx='336' cy='36' r='24'/>
+<circle cx='336' cy='36' r='18' fill='none'/>
+<circle cx='336' cy='36' r='12' fill='none'/>
+<circle cx='336' cy='36' r='6' fill='none'/>
+<circle cx='384' cy='36' r='24'/>
+<circle cx='384' cy='36' r='18' fill='none'/>
+<circle cx='384' cy='36' r='12' fill='none'/>
+<circle cx='384' cy='36' r='6' fill='none'/>
+<circle cx='-24' cy='48' r='24'/>
+<circle cx='-24' cy='48' r='18' fill='none'/>
+<circle cx='-24' cy='48' r='12' fill='none'/>
+<circle cx='-24' cy='48' r='6' fill='none'/>
+<circle cx='24' cy='48' r='24'/>
+<circle cx='24' cy='48' r='18' fill='none'/>
+<circle cx='24' cy='48' r='12' fill='none'/>
+<circle cx='24' cy='48' r='6' fill='none'/>
+<circle cx='72' cy='48' r='24'/>
+<circle cx='72' cy='48' r='18' fill='none'/>
+<circle cx='72' cy='48' r='12' fill='none'/>
+<circle cx='72' cy='48' r='6' fill='none'/>
+<circle cx='120' cy='48' r='24'/>
+<circle cx='120' cy='48' r='18' fill='none'/>
+<circle cx='120' cy='48' r='12' fill='none'/>
+<circle cx='120' cy='48' r='6' fill='none'/>
+<circle cx='168' cy='48' r='24'/>
+<circle cx='168' cy='48' r='18' fill='none'/>
+<circle cx='168' cy='48' r='12' fill='none'/>
+<circle cx='168' cy='48' r='6' fill='none'/>
+<circle cx='216' cy='48' r='24'/>
+<circle cx='216' cy='48' r='18' fill='none'/>
+<circle cx='216' cy='48' r='12' fill='none'/>
+<circle cx='216' cy='48' r='6' fill='none'/>
+<circle cx='264' cy='48' r='24'/>
+<circle cx='264' cy='48' r='18' fill='none'/>
+<circle cx='264' cy='48' r='12' fill='none'/>
+<circle cx='264' cy='48' r='6' fill='none'/>
+<circle cx='312' cy='48' r='24'/>
+<circle cx='312' cy='48' r='18' fill='none'/>
+<circle cx='312' cy='48' r='12' fill='none'/>
+<circle cx='312' cy='48' r='6' fill='none'/>
+<circle cx='360' cy='48' r='24'/>
+<circle cx='360' cy='48' r='18' fill='none'/>
+<circle cx='360' cy='48' r='12' fill='none'/>
+<circle cx='360' cy='48' r='6' fill='none'/>
+<circle cx='408' cy='48' r='24'/>
+<circle cx='408' cy='48' r='18' fill='none'/>
+<circle cx='408' cy='48' r='12' fill='none'/>
+<circle cx='408' cy='48' r='6' fill='none'/>
+<circle cx='0' cy='60' r='24'/>
+<circle cx='0' cy='60' r='18' fill='none'/>
+<circle cx='0' cy='60' r='12' fill='none'/>
+<circle cx='0' cy='60' r='6' fill='none'/>
+<circle cx='48' cy='60' r='24'/>
+<circle cx='48' cy='60' r='18' fill='none'/>
+<circle cx='48' cy='60' r='12' fill='none'/>
+<circle cx='48' cy='60' r='6' fill='none'/>
+<circle cx='96' cy='60' r='24'/>
+<circle cx='96' cy='60' r='18' fill='none'/>
+<circle cx='96' cy='60' r='12' fill='none'/>
+<circle cx='96' cy='60' r='6' fill='none'/>
+<circle cx='144' cy='60' r='24'/>
+<circle cx='144' cy='60' r='18' fill='none'/>
+<circle cx='144' cy='60' r='12' fill='none'/>
+<circle cx='144' cy='60' r='6' fill='none'/>
+<circle cx='192' cy='60' r='24'/>
+<circle cx='192' cy='60' r='18' fill='none'/>
+<circle cx='192' cy='60' r='12' fill='none'/>
+<circle cx='192' cy='60' r='6' fill='none'/>
+<circle cx='240' cy='60' r='24'/>
+<circle cx='240' cy='60' r='18' fill='none'/>
+<circle cx='240' cy='60' r='12' fill='none'/>
+<circle cx='240' cy='60' r='6' fill='none'/>
+<circle cx='288' cy='60' r='24'/>
+<circle cx='288' cy='60' r='18' fill='none'/>
+<circle cx='288' cy='60' r='12' fill='none'/>
+<circle cx='288' cy='60' r='6' fill='none'/>
+<circle cx='336' cy='60' r='24'/>
+<circle cx='336' cy='60' r='18' fill='none'/>
+<circle cx='336' cy='60' r='12' fill='none'/>
+<circle cx='336' cy='60' r='6' fill='none'/>
+<circle cx='384' cy='60' r='24'/>
+<circle cx='384' cy='60' r='18' fill='none'/>
+<circle cx='384' cy='60' r='12' fill='none'/>
+<circle cx='384' cy='60' r='6' fill='none'/>
+<circle cx='-24' cy='72' r='24'/>
+<circle cx='-24' cy='72' r='18' fill='none'/>
+<circle cx='-24' cy='72' r='12' fill='none'/>
+<circle cx='-24' cy='72' r='6' fill='none'/>
+<circle cx='24' cy='72' r='24'/>
+<circle cx='24' cy='72' r='18' fill='none'/>
+<circle cx='24' cy='72' r='12' fill='none'/>
+<circle cx='24' cy='72' r='6' fill='none'/>
+<circle cx='72' cy='72' r='24'/>
+<circle cx='72' cy='72' r='18' fill='none'/>
+<circle cx='72' cy='72' r='12' fill='none'/>
+<circle cx='72' cy='72' r='6' fill='none'/>
+<circle cx='120' cy='72' r='24'/>
+<circle cx='120' cy='72' r='18' fill='none'/>
+<circle cx='120' cy='72' r='12' fill='none'/>
+<circle cx='120' cy='72' r='6' fill='none'/>
+<circle cx='168' cy='72' r='24'/>
+<circle cx='168' cy='72' r='18' fill='none'/>
+<circle cx='168' cy='72' r='12' fill='none'/>
+<circle cx='168' cy='72' r='6' fill='none'/>
+<circle cx='216' cy='72' r='24'/>
+<circle cx='216' cy='72' r='18' fill='none'/>
+<circle cx='216' cy='72' r='12' fill='none'/>
+<circle cx='216' cy='72' r='6' fill='none'/>
+<circle cx='264' cy='72' r='24'/>
+<circle cx='264' cy='72' r='18' fill='none'/>
+<circle cx='264' cy='72' r='12' fill='none'/>
+<circle cx='264' cy='72' r='6' fill='none'/>
+<circle cx='312' cy='72' r='24'/>
+<circle cx='312' cy='72' r='18' fill='none'/>
+<circle cx='312' cy='72' r='12' fill='none'/>
+<circle cx='312' cy='72' r='6' fill='none'/>
+<circle cx='360' cy='72' r='24'/>
+<circle cx='360' cy='72' r='18' fill='none'/>
+<circle cx='360' cy='72' r='12' fill='none'/>
+<circle cx='360' cy='72' r='6' fill='none'/>
+<circle cx='408' cy='72' r='24'/>
+<circle cx='408' cy='72' r='18' fill='none'/>
+<circle cx='408' cy='72' r='12' fill='none'/>
+<circle cx='408' cy='72' r='6' fill='none'/>
+<circle cx='0' cy='84' r='24'/>
+<circle cx='0' cy='84' r='18' fill='none'/>
+<circle cx='0' cy='84' r='12' fill='none'/>
+<circle cx='0' cy='84' r='6' fill='none'/>
+<circle cx='48' cy='84' r='24'/>
+<circle cx='48' cy='84' r='18' fill='none'/>
+<circle cx='48' cy='84' r='12' fill='none'/>
+<circle cx='48' cy='84' r='6' fill='none'/>
+<circle cx='96' cy='84' r='24'/>
+<circle cx='96' cy='84' r='18' fill='none'/>
+<circle cx='96' cy='84' r='12' fill='none'/>
+<circle cx='96' cy='84' r='6' fill='none'/>
+<circle cx='144' cy='84' r='24'/>
+<circle cx='144' cy='84' r='18' fill='none'/>
+<circle cx='144' cy='84' r='12' fill='none'/>
+<circle cx='144' cy='84' r='6' fill='none'/>
+<circle cx='192' cy='84' r='24'/>
+<circle cx='192' cy='84' r='18' fill='none'/>
+<circle cx='192' cy='84' r='12' fill='none'/>
+<circle cx='192' cy='84' r='6' fill='none'/>
+<circle cx='240' cy='84' r='24'/>
+<circle cx='240' cy='84' r='18' fill='none'/>
+<circle cx='240' cy='84' r='12' fill='none'/>
+<circle cx='240' cy='84' r='6' fill='none'/>
+<circle cx='288' cy='84' r='24'/>
+<circle cx='288' cy='84' r='18' fill='none'/>
+<circle cx='288' cy='84' r='12' fill='none'/>
+<circle cx='288' cy='84' r='6' fill='none'/>
+<circle cx='336' cy='84' r='24'/>
+<circle cx='336' cy='84' r='18' fill='none'/>
+<circle cx='336' cy='84' r='12' fill='none'/>
+<circle cx='336' cy='84' r='6' fill='none'/>
+<circle cx='384' cy='84' r='24'/>
+<circle cx='384' cy='84' r='18' fill='none'/>
+<circle cx='384' cy='84' r='12' fill='none'/>
+<circle cx='384' cy='84' r='6' fill='none'/>
+<circle cx='-24' cy='96' r='24'/>
+<circle cx='-24' cy='96' r='18' fill='none'/>
+<circle cx='-24' cy='96' r='12' fill='none'/>
+<circle cx='-24' cy='96' r='6' fill='none'/>
+<circle cx='24' cy='96' r='24'/>
+<circle cx='24' cy='96' r='18' fill='none'/>
+<circle cx='24' cy='96' r='12' fill='none'/>
+<circle cx='24' cy='96' r='6' fill='none'/>
+<circle cx='72' cy='96' r='24'/>
+<circle cx='72' cy='96' r='18' fill='none'/>
+<circle cx='72' cy='96' r='12' fill='none'/>
+<circle cx='72' cy='96' r='6' fill='none'/>
+<circle cx='120' cy='96' r='24'/>
+<circle cx='120' cy='96' r='18' fill='none'/>
+<circle cx='120' cy='96' r='12' fill='none'/>
+<circle cx='120' cy='96' r='6' fill='none'/>
+<circle cx='168' cy='96' r='24'/>
+<circle cx='168' cy='96' r='18' fill='none'/>
+<circle cx='168' cy='96' r='12' fill='none'/>
+<circle cx='168' cy='96' r='6' fill='none'/>
+<circle cx='216' cy='96' r='24'/>
+<circle cx='216' cy='96' r='18' fill='none'/>
+<circle cx='216' cy='96' r='12' fill='none'/>
+<circle cx='216' cy='96' r='6' fill='none'/>
+<circle cx='264' cy='96' r='24'/>
+<circle cx='264' cy='96' r='18' fill='none'/>
+<circle cx='264' cy='96' r='12' fill='none'/>
+<circle cx='264' cy='96' r='6' fill='none'/>
+<circle cx='312' cy='96' r='24'/>
+<circle cx='312' cy='96' r='18' fill='none'/>
+<circle cx='312' cy='96' r='12' fill='none'/>
+<circle cx='312' cy='96' r='6' fill='none'/>
+<circle cx='360' cy='96' r='24'/>
+<circle cx='360' cy='96' r='18' fill='none'/>
+<circle cx='360' cy='96' r='12' fill='none'/>
+<circle cx='360' cy='96' r='6' fill='none'/>
+<circle cx='408' cy='96' r='24'/>
+<circle cx='408' cy='96' r='18' fill='none'/>
+<circle cx='408' cy='96' r='12' fill='none'/>
+<circle cx='408' cy='96' r='6' fill='none'/>
+<circle cx='0' cy='108' r='24'/>
+<circle cx='0' cy='108' r='18' fill='none'/>
+<circle cx='0' cy='108' r='12' fill='none'/>
+<circle cx='0' cy='108' r='6' fill='none'/>
+<circle cx='48' cy='108' r='24'/>
+<circle cx='48' cy='108' r='18' fill='none'/>
+<circle cx='48' cy='108' r='12' fill='none'/>
+<circle cx='48' cy='108' r='6' fill='none'/>
+<circle cx='96' cy='108' r='24'/>
+<circle cx='96' cy='108' r='18' fill='none'/>
+<circle cx='96' cy='108' r='12' fill='none'/>
+<circle cx='96' cy='108' r='6' fill='none'/>
+<circle cx='144' cy='108' r='24'/>
+<circle cx='144' cy='108' r='18' fill='none'/>
+<circle cx='144' cy='108' r='12' fill='none'/>
+<circle cx='144' cy='108' r='6' fill='none'/>
+<circle cx='192' cy='108' r='24'/>
+<circle cx='192' cy='108' r='18' fill='none'/>
+<circle cx='192' cy='108' r='12' fill='none'/>
+<circle cx='192' cy='108' r='6' fill='none'/>
+<circle cx='240' cy='108' r='24'/>
+<circle cx='240' cy='108' r='18' fill='none'/>
+<circle cx='240' cy='108' r='12' fill='none'/>
+<circle cx='240' cy='108' r='6' fill='none'/>
+<circle cx='288' cy='108' r='24'/>
+<circle cx='288' cy='108' r='18' fill='none'/>
+<circle cx='288' cy='108' r='12' fill='none'/>
+<circle cx='288' cy='108' r='6' fill='none'/>
+<circle cx='336' cy='108' r='24'/>
+<circle cx='336' cy='108' r='18' fill='none'/>
+<circle cx='336' cy='108' r='12' fill='none'/>
+<circle cx='336' cy='108' r='6' fill='none'/>
+<circle cx='384' cy='108' r='24'/>
+<circle cx='384' cy='108' r='18' fill='none'/>
+<circle cx='384' cy='108' r='12' fill='none'/>
+<circle cx='384' cy='108' r='6' fill='none'/>
+<circle cx='-24' cy='120' r='24'/>
+<circle cx='-24' cy='120' r='18' fill='none'/>
+<circle cx='-24' cy='120' r='12' fill='none'/>
+<circle cx='-24' cy='120' r='6' fill='none'/>
+<circle cx='24' cy='120' r='24'/>
+<circle cx='24' cy='120' r='18' fill='none'/>
+<circle cx='24' cy='120' r='12' fill='none'/>
+<circle cx='24' cy='120' r='6' fill='none'/>
+<circle cx='72' cy='120' r='24'/>
+<circle cx='72' cy='120' r='18' fill='none'/>
+<circle cx='72' cy='120' r='12' fill='none'/>
+<circle cx='72' cy='120' r='6' fill='none'/>
+<circle cx='120' cy='120' r='24'/>
+<circle cx='120' cy='120' r='18' fill='none'/>
+<circle cx='120' cy='120' r='12' fill='none'/>
+<circle cx='120' cy='120' r='6' fill='none'/>
+<circle cx='168' cy='120' r='24'/>
+<circle cx='168' cy='120' r='18' fill='none'/>
+<circle cx='168' cy='120' r='12' fill='none'/>
+<circle cx='168' cy='120' r='6' fill='none'/>
+<circle cx='216' cy='120' r='24'/>
+<circle cx='216' cy='120' r='18' fill='none'/>
+<circle cx='216' cy='120' r='12' fill='none'/>
+<circle cx='216' cy='120' r='6' fill='none'/>
+<circle cx='264' cy='120' r='24'/>
+<circle cx='264' cy='120' r='18' fill='none'/>
+<circle cx='264' cy='120' r='12' fill='none'/>
+<circle cx='264' cy='120' r='6' fill='none'/>
+<circle cx='312' cy='120' r='24'/>
+<circle cx='312' cy='120' r='18' fill='none'/>
+<circle cx='312' cy='120' r='12' fill='none'/>
+<circle cx='312' cy='120' r='6' fill='none'/>
+<circle cx='360' cy='120' r='24'/>
+<circle cx='360' cy='120' r='18' fill='none'/>
+<circle cx='360' cy='120' r='12' fill='none'/>
+<circle cx='360' cy='120' r='6' fill='none'/>
+<circle cx='408' cy='120' r='24'/>
+<circle cx='408' cy='120' r='18' fill='none'/>
+<circle cx='408' cy='120' r='12' fill='none'/>
+<circle cx='408' cy='120' r='6' fill='none'/>
+<circle cx='0' cy='132' r='24'/>
+<circle cx='0' cy='132' r='18' fill='none'/>
+<circle cx='0' cy='132' r='12' fill='none'/>
+<circle cx='0' cy='132' r='6' fill='none'/>
+<circle cx='48' cy='132' r='24'/>
+<circle cx='48' cy='132' r='18' fill='none'/>
+<circle cx='48' cy='132' r='12' fill='none'/>
+<circle cx='48' cy='132' r='6' fill='none'/>
+<circle cx='96' cy='132' r='24'/>
+<circle cx='96' cy='132' r='18' fill='none'/>
+<circle cx='96' cy='132' r='12' fill='none'/>
+<circle cx='96' cy='132' r='6' fill='none'/>
+<circle cx='144' cy='132' r='24'/>
+<circle cx='144' cy='132' r='18' fill='none'/>
+<circle cx='144' cy='132' r='12' fill='none'/>
+<circle cx='144' cy='132' r='6' fill='none'/>
+<circle cx='192' cy='132' r='24'/>
+<circle cx='192' cy='132' r='18' fill='none'/>
+<circle cx='192' cy='132' r='12' fill='none'/>
+<circle cx='192' cy='132' r='6' fill='none'/>
+<circle cx='240' cy='132' r='24'/>
+<circle cx='240' cy='132' r='18' fill='none'/>
+<circle cx='240' cy='132' r='12' fill='none'/>
+<circle cx='240' cy='132' r='6' fill='none'/>
+<circle cx='288' cy='132' r='24'/>
+<circle cx='288' cy='132' r='18' fill='none'/>
+<circle cx='288' cy='132' r='12' fill='none'/>
+<circle cx='288' cy='132' r='6' fill='none'/>
+<circle cx='336' cy='132' r='24'/>
+<circle cx='336' cy='132' r='18' fill='none'/>
+<circle cx='336' cy='132' r='12' fill='none'/>
+<circle cx='336' cy='132' r='6' fill='none'/>
+<circle cx='384' cy='132' r='24'/>
+<circle cx='384' cy='132' r='18' fill='none'/>
+<circle cx='384' cy='132' r='12' fill='none'/>
+<circle cx='384' cy='132' r='6' fill='none'/>
+<circle cx='-24' cy='144' r='24'/>
+<circle cx='-24' cy='144' r='18' fill='none'/>
+<circle cx='-24' cy='144' r='12' fill='none'/>
+<circle cx='-24' cy='144' r='6' fill='none'/>
+<circle cx='24' cy='144' r='24'/>
+<circle cx='24' cy='144' r='18' fill='none'/>
+<circle cx='24' cy='144' r='12' fill='none'/>
+<circle cx='24' cy='144' r='6' fill='none'/>
+<circle cx='72' cy='144' r='24'/>
+<circle cx='72' cy='144' r='18' fill='none'/>
+<circle cx='72' cy='144' r='12' fill='none'/>
+<circle cx='72' cy='144' r='6' fill='none'/>
+<circle cx='120' cy='144' r='24'/>
+<circle cx='120' cy='144' r='18' fill='none'/>
+<circle cx='120' cy='144' r='12' fill='none'/>
+<circle cx='120' cy='144' r='6' fill='none'/>
+<circle cx='168' cy='144' r='24'/>
+<circle cx='168' cy='144' r='18' fill='none'/>
+<circle cx='168' cy='144' r='12' fill='none'/>
+<circle cx='168' cy='144' r='6' fill='none'/>
+<circle cx='216' cy='144' r='24'/>
+<circle cx='216' cy='144' r='18' fill='none'/>
+<circle cx='216' cy='144' r='12' fill='none'/>
+<circle cx='216' cy='144' r='6' fill='none'/>
+<circle cx='264' cy='144' r='24'/>
+<circle cx='264' cy='144' r='18' fill='none'/>
+<circle cx='264' cy='144' r='12' fill='none'/>
+<circle cx='264' cy='144' r='6' fill='none'/>
+<circle cx='312' cy='144' r='24'/>
+<circle cx='312' cy='144' r='18' fill='none'/>
+<circle cx='312' cy='144' r='12' fill='none'/>
+<circle cx='312' cy='144' r='6' fill='none'/>
+<circle cx='360' cy='144' r='24'/>
+<circle cx='360' cy='144' r='18' fill='none'/>
+<circle cx='360' cy='144' r='12' fill='none'/>
+<circle cx='360' cy='144' r='6' fill='none'/>
+<circle cx='408' cy='144' r='24'/>
+<circle cx='408' cy='144' r='18' fill='none'/>
+<circle cx='408' cy='144' r='12' fill='none'/>
+<circle cx='408' cy='144' r='6' fill='none'/>
+<circle cx='0' cy='156' r='24'/>
+<circle cx='0' cy='156' r='18' fill='none'/>
+<circle cx='0' cy='156' r='12' fill='none'/>
+<circle cx='0' cy='156' r='6' fill='none'/>
+<circle cx='48' cy='156' r='24'/>
+<circle cx='48' cy='156' r='18' fill='none'/>
+<circle cx='48' cy='156' r='12' fill='none'/>
+<circle cx='48' cy='156' r='6' fill='none'/>
+<circle cx='96' cy='156' r='24'/>
+<circle cx='96' cy='156' r='18' fill='none'/>
+<circle cx='96' cy='156' r='12' fill='none'/>
+<circle cx='96' cy='156' r='6' fill='none'/>
+<circle cx='144' cy='156' r='24'/>
+<circle cx='144' cy='156' r='18' fill='none'/>
+<circle cx='144' cy='156' r='12' fill='none'/>
+<circle cx='144' cy='156' r='6' fill='none'/>
+<circle cx='192' cy='156' r='24'/>
+<circle cx='192' cy='156' r='18' fill='none'/>
+<circle cx='192' cy='156' r='12' fill='none'/>
+<circle cx='192' cy='156' r='6' fill='none'/>
+<circle cx='240' cy='156' r='24'/>
+<circle cx='240' cy='156' r='18' fill='none'/>
+<circle cx='240' cy='156' r='12' fill='none'/>
+<circle cx='240' cy='156' r='6' fill='none'/>
+<circle cx='288' cy='156' r='24'/>
+<circle cx='288' cy='156' r='18' fill='none'/>
+<circle cx='288' cy='156' r='12' fill='none'/>
+<circle cx='288' cy='156' r='6' fill='none'/>
+<circle cx='336' cy='156' r='24'/>
+<circle cx='336' cy='156' r='18' fill='none'/>
+<circle cx='336' cy='156' r='12' fill='none'/>
+<circle cx='336' cy='156' r='6' fill='none'/>
+<circle cx='384' cy='156' r='24'/>
+<circle cx='384' cy='156' r='18' fill='none'/>
+<circle cx='384' cy='156' r='12' fill='none'/>
+<circle cx='384' cy='156' r='6' fill='none'/>
+<circle cx='-24' cy='168' r='24'/>
+<circle cx='-24' cy='168' r='18' fill='none'/>
+<circle cx='-24' cy='168' r='12' fill='none'/>
+<circle cx='-24' cy='168' r='6' fill='none'/>
+<circle cx='24' cy='168' r='24'/>
+<circle cx='24' cy='168' r='18' fill='none'/>
+<circle cx='24' cy='168' r='12' fill='none'/>
+<circle cx='24' cy='168' r='6' fill='none'/>
+<circle cx='72' cy='168' r='24'/>
+<circle cx='72' cy='168' r='18' fill='none'/>
+<circle cx='72' cy='168' r='12' fill='none'/>
+<circle cx='72' cy='168' r='6' fill='none'/>
+<circle cx='120' cy='168' r='24'/>
+<circle cx='120' cy='168' r='18' fill='none'/>
+<circle cx='120' cy='168' r='12' fill='none'/>
+<circle cx='120' cy='168' r='6' fill='none'/>
+<circle cx='168' cy='168' r='24'/>
+<circle cx='168' cy='168' r='18' fill='none'/>
+<circle cx='168' cy='168' r='12' fill='none'/>
+<circle cx='168' cy='168' r='6' fill='none'/>
+<circle cx='216' cy='168' r='24'/>
+<circle cx='216' cy='168' r='18' fill='none'/>
+<circle cx='216' cy='168' r='12' fill='none'/>
+<circle cx='216' cy='168' r='6' fill='none'/>
+<circle cx='264' cy='168' r='24'/>
+<circle cx='264' cy='168' r='18' fill='none'/>
+<circle cx='264' cy='168' r='12' fill='none'/>
+<circle cx='264' cy='168' r='6' fill='none'/>
+<circle cx='312' cy='168' r='24'/>
+<circle cx='312' cy='168' r='18' fill='none'/>
+<circle cx='312' cy='168' r='12' fill='none'/>
+<circle cx='312' cy='168' r='6' fill='none'/>
+<circle cx='360' cy='168' r='24'/>
+<circle cx='360' cy='168' r='18' fill='none'/>
+<circle cx='360' cy='168' r='12' fill='none'/>
+<circle cx='360' cy='168' r='6' fill='none'/>
+<circle cx='408' cy='168' r='24'/>
+<circle cx='408' cy='168' r='18' fill='none'/>
+<circle cx='408' cy='168' r='12' fill='none'/>
+<circle cx='408' cy='168' r='6' fill='none'/>
+<circle cx='0' cy='180' r='24'/>
+<circle cx='0' cy='180' r='18' fill='none'/>
+<circle cx='0' cy='180' r='12' fill='none'/>
+<circle cx='0' cy='180' r='6' fill='none'/>
+<circle cx='48' cy='180' r='24'/>
+<circle cx='48' cy='180' r='18' fill='none'/>
+<circle cx='48' cy='180' r='12' fill='none'/>
+<circle cx='48' cy='180' r='6' fill='none'/>
+<circle cx='96' cy='180' r='24'/>
+<circle cx='96' cy='180' r='18' fill='none'/>
+<circle cx='96' cy='180' r='12' fill='none'/>
+<circle cx='96' cy='180' r='6' fill='none'/>
+<circle cx='144' cy='180' r='24'/>
+<circle cx='144' cy='180' r='18' fill='none'/>
+<circle cx='144' cy='180' r='12' fill='none'/>
+<circle cx='144' cy='180' r='6' fill='none'/>
+<circle cx='192' cy='180' r='24'/>
+<circle cx='192' cy='180' r='18' fill='none'/>
+<circle cx='192' cy='180' r='12' fill='none'/>
+<circle cx='192' cy='180' r='6' fill='none'/>
+<circle cx='240' cy='180' r='24'/>
+<circle cx='240' cy='180' r='18' fill='none'/>
+<circle cx='240' cy='180' r='12' fill='none'/>
+<circle cx='240' cy='180' r='6' fill='none'/>
+<circle cx='288' cy='180' r='24'/>
+<circle cx='288' cy='180' r='18' fill='none'/>
+<circle cx='288' cy='180' r='12' fill='none'/>
+<circle cx='288' cy='180' r='6' fill='none'/>
+<circle cx='336' cy='180' r='24'/>
+<circle cx='336' cy='180' r='18' fill='none'/>
+<circle cx='336' cy='180' r='12' fill='none'/>
+<circle cx='336' cy='180' r='6' fill='none'/>
+<circle cx='384' cy='180' r='24'/>
+<circle cx='384' cy='180' r='18' fill='none'/>
+<circle cx='384' cy='180' r='12' fill='none'/>
+<circle cx='384' cy='180' r='6' fill='none'/>
+</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMDJkNmVjZi0zMjliLTRlYjItYmMyNi1kZjc1ZTdlNzFkZjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJpQdHFXpXJECKnNX0mFJAoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozYjY0OGRmOS05YmJkLTRkYTItYjk3OS03YzhiNTU1ODRjNDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNofgpVxSH3sc8Yj4aLIOr0pAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggBcSKWUQ6zsFYTem7q4gt2eWSUXAGdPJvtf+SgGZtLQekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCqszQ3cWpmds5eENaRuJngAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIFMUtaPnM7X997PBCFtH7OoqJ8hKW2Uuc9om83w7JzMKZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWZ0Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIwMmQ2ZWNmLTMyOWItNGViMi1iYzI2LWRmNzVlN2U3MWRmMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjBlZTMyMmNlLWU3Y2QtNDVkNi1iMDQxLTIyZmFlNGI2MGQ2N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAFxIpZRDrOwVhN6buriC3Z5ZJRcAZ08m+1/5KAZm0tB6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggwmH9lFZzlctT/f9BBUM5tu4wXWrf+85yxlzJuBNvYjyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg3HxnmWNAkputKbxs7PpsN0FwpFiolaXtYKUAFbfv9D10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQH6bWLvN3ybzYKecTQHIYk5OxE/4TJhsN+jjw0sW61ISTuGINgI5nT4VXiZpaaXIU8NGiTSVqL9cbLYd0Ux7I/w=</c2pa:manifest></metadata></svg>
