@@ -17,17 +17,22 @@
             <img src="Icons/logo.svg" alt="umochi logo" width="24">
             <span>umochi</span>
         </a>
-        <nav>
-            <ul id="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">Menu</a></li>
-                <li><a href="contact.html">About</a></li>
-            </ul>
-        </nav>
-        <a id="cart">
-            <span>Basket(0)</span>
-            <img src="Icons/basket.svg" alt="shopping basket" width="36">
-        </a>
+        <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="menu-dropdown">
+            <img src="Icons/menu.svg" alt="" width="24">
+        </button>
+        <div id="menu-dropdown">
+            <nav>
+                <ul id="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">Menu</a></li>
+                    <li><a href="contact.html">About</a></li>
+                </ul>
+            </nav>
+            <a id="cart">
+                <span>Basket(0)</span>
+                <img src="Icons/basket.svg" alt="shopping basket" width="36">
+            </a>
+        </div>
     </header>
 
     <section id="offers-section">
@@ -93,11 +98,11 @@
         </div>
     </section>
 
-    <section id="about-us">
+    <section id="reviews">
         <span class="section-title">
             <h1>Reviews</h1>
         </span>
-        <section id="reviews">
+        <div class="reviews-list">
             <div class="review">
                 <div class="rating">
                     <img src="Icons/star.svg" alt="star" width="16">
@@ -131,7 +136,13 @@
                 <p class="review-text">Delicious food and friendly staff!</p>
                 <h2 class="review-author">- Emily R.</h2>
             </div>
-        </section>
+        </div>
+    </section>
+
+    <section id="about-us">
+        <span class="section-title">
+            <h1>About Us</h1>
+        </span>
         <div id="about-us-card">
             <div id="about-us-image">
                 <picture>
@@ -142,7 +153,6 @@
             </div>
             <div id="about-us-content">
                 <span class="eyebrow">Our story</span>
-                <h2>About Us</h2>
                 <p>We are a family-owned restaurant dedicated to providing the best sushi and Japanese cuisine in town. Our chefs use only the freshest ingredients to create delicious dishes that will transport you to Japan with every bite.</p>
                 <a class="about-link" href="#">Visit us →</a>
             </div>
@@ -169,5 +179,6 @@
     </footer>
 
     <script src="slider.js"></script>
+    <script src="menu.js"></script>
 </body>
 </html>
