@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Umochi - Menu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+
+<body>
+    <site-header root="../"></site-header>
+
+    <section id="search-options">
+        <input type="text" id="search-bar" placeholder="Search..." aria-label="Search the menu">
+        <div id="search-categories">
+            <h1>Categories</h1>
+            <div id="category-buttons">
+                <button class="category-button active" data-category="all">All</button>
+                <button class="category-button" data-category="sushi">Sushi</button>
+                <button class="category-button" data-category="ramen">Ramen</button>
+                <button class="category-button" data-category="desserts">Desserts</button>
+                <button class="category-button" data-category="drinks">Drinks</button>
+            </div>
+        </div>
+        <div id="search-filters">
+            <h1>Filters</h1>
+            <div id="filter-buttons">
+                <button class="filter-button" data-filter="vegetarian">Vegetarian</button>
+                <button class="filter-button" data-filter="vegan">Vegan</button>
+                <button class="filter-button" data-filter="gluten-free">Gluten-Free</button>
+                <button class="filter-button" data-filter="spicy">Spicy</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="menu">
+        <div id="menu-items"></div>
+        <div id="menu-summary">
+            <h1>Your order</h1>
+            <div id="order-items"></div>
+            <hr>
+            <div id="order-subtotal">
+                <span>Subtotal:</span>
+                <span id="subtotal-price">€0.00</span>
+            </div>
+            <p>Delivery and offers are calculated at checkout</p>
+            <button id="checkout-button">Checkout</button>
+        </div>
+    </section>
+
+    <site-footer root="../"></site-footer>
+
+    <button id="to-top" aria-label="Back to top">
+        <img src="../Icons/arrow-up.svg" alt="" width="24">
+    </button>
+
+    <script src="../Components/Header.js"></script>
+    <script src="../Components/Footer.js"></script>
+    <script src="../Scripts/hamburger-button.js"></script>
+    <script src="../Scripts/to-top.js"></script>
+    <script src="../Data/productsDB.js"></script>
+    <script src="../Scripts/menu-page.js"></script>
+</body>
+</html>

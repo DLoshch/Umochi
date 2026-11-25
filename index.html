@@ -12,28 +12,7 @@
 </head>
 
 <body>
-    <header>
-        <a id="logo">
-            <img src="Icons/logo.svg" alt="umochi logo" width="24">
-            <span>umochi</span>
-        </a>
-        <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="menu-dropdown">
-            <img src="Icons/menu.svg" alt="" width="24">
-        </button>
-        <div id="menu-dropdown">
-            <nav>
-                <ul id="nav-links">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">Menu</a></li>
-                    <li><a href="contact.html">About</a></li>
-                </ul>
-            </nav>
-            <a id="cart">
-                <span>Basket(0)</span>
-                <img src="Icons/basket.svg" alt="shopping basket" width="36">
-            </a>
-        </div>
-    </header>
+    <site-header></site-header>
 
     <section id="offers-section">
         <h2 class="visually-hidden">Special offers</h2>
@@ -41,26 +20,26 @@
             <div id="offers-scroller">
                 <div class="slide">
                     <picture>
-                        <source media="(min-width: 48em)" srcset="Images/SpecialOffer3.webp" type="image/webp">
-                        <source media="(min-width: 48em)" srcset="Images/SpecialOffer3.png" type="image/png">
-                        <source srcset="Images/SpecialOffer3-Mobile.webp" type="image/webp">
-                        <img src="Images/SpecialOffer3-Mobile.png" alt="Special offer: Dessert Set. Mochi, dorayaki and a drink at a special price.">
+                        <source media="(min-width: 48em)" srcset="Images/Offers/SpecialOffer3.webp" type="image/webp">
+                        <source media="(min-width: 48em)" srcset="Images/Offers/SpecialOffer3.png" type="image/png">
+                        <source srcset="Images/Offers/SpecialOffer3-Mobile.webp" type="image/webp">
+                        <img src="Images/Offers/SpecialOffer3-Mobile.png" alt="Special offer: Dessert Set. Mochi, dorayaki and a drink at a special price.">
                     </picture>
                 </div>
                 <div class="slide">
                     <picture>
-                        <source media="(min-width: 48em)" srcset="Images/SpecialOffer2.webp" type="image/webp">
-                        <source media="(min-width: 48em)" srcset="Images/SpecialOffer2.png" type="image/png">
-                        <source srcset="Images/SpecialOffer2-Mobile.webp" type="image/webp">
-                        <img src="Images/SpecialOffer2-Mobile.png" alt="Special offer: Ramen Combo. Any ramen and a drink for a special price.">
+                        <source media="(min-width: 48em)" srcset="Images/Offers/SpecialOffer2.webp" type="image/webp">
+                        <source media="(min-width: 48em)" srcset="Images/Offers/SpecialOffer2.png" type="image/png">
+                        <source srcset="Images/Offers/SpecialOffer2-Mobile.webp" type="image/webp">
+                        <img src="Images/Offers/SpecialOffer2-Mobile.png" alt="Special offer: Ramen Combo. Any ramen and a drink for a special price.">
                     </picture>
                 </div>
                 <div class="slide">
                     <picture>
-                        <source media="(min-width: 48em)" srcset="Images/SpecialOffer1.webp" type="image/webp">
-                        <source media="(min-width: 48em)" srcset="Images/SpecialOffer1.png" type="image/png">
-                        <source srcset="Images/SpecialOffer1-Mobile.webp" type="image/webp">
-                        <img src="Images/SpecialOffer1-Mobile.png" alt="Special offer: Sushi Combo. 12 pieces of our best rolls at a special price.">
+                        <source media="(min-width: 48em)" srcset="Images/Offers/SpecialOffer1.webp" type="image/webp">
+                        <source media="(min-width: 48em)" srcset="Images/Offers/SpecialOffer1.png" type="image/png">
+                        <source srcset="Images/Offers/SpecialOffer1-Mobile.webp" type="image/webp">
+                        <img src="Images/Offers/SpecialOffer1-Mobile.png" alt="Special offer: Sushi Combo. 12 pieces of our best rolls at a special price.">
                     </picture>
                 </div>
             </div>
@@ -77,8 +56,8 @@
         <div class="bento-grid">
             <div class="card card-large">
                 <picture>
-                    <source srcset="Images/Sushi&Rolls.webp" type="image/webp">
-                    <img class="card-img" src="Images/Sushi&Rolls.png" alt="">
+                    <source srcset="Images/Categories/Sushi&Rolls.webp" type="image/webp">
+                    <img class="card-img" src="Images/Categories/Sushi&Rolls.png" alt="">
                 </picture>
                 <h2>Sushi & Rolls</h2>
                 <div class="circle-icon">
@@ -88,8 +67,8 @@
 
             <div class="card card-top-right">
                 <picture>
-                    <source srcset="Images/Starters.webp" type="image/webp">
-                    <img class="card-img" src="Images/Starters.png" alt="">
+                    <source srcset="Images/Categories/Starters.webp" type="image/webp">
+                    <img class="card-img" src="Images/Categories/Starters.png" alt="">
                 </picture>
                 <h2>Starters</h2>
                 <div class="circle-icon">
@@ -99,8 +78,8 @@
 
             <div class="card card-bottom-left">
                 <picture>
-                    <source srcset="Images/Drinks.webp" type="image/webp">
-                    <img class="card-img" src="Images/Drinks.png" alt="">
+                    <source srcset="Images/Categories/Drinks.webp" type="image/webp">
+                    <img class="card-img" src="Images/Categories/Drinks.png" alt="">
                 </picture>
                 <h2>Drinks</h2>
                 <div class="circle-icon">
@@ -110,8 +89,8 @@
 
             <div class="card card-bottom-mid">
                 <picture>
-                    <source srcset="Images/Desserts.webp" type="image/webp">
-                    <img class="card-img" src="Images/Desserts.png" alt="">
+                    <source srcset="Images/Categories/Desserts.webp" type="image/webp">
+                    <img class="card-img" src="Images/Categories/Desserts.png" alt="">
                 </picture>
                 <h2>Desserts</h2>
                 <div class="circle-icon">
@@ -121,8 +100,8 @@
 
             <div class="card card-tall-right">
                 <picture>
-                    <source srcset="Images/Ramen&Wok.webp" type="image/webp">
-                    <img class="card-img" src="Images/Ramen&Wok.png" alt="">
+                    <source srcset="Images/Categories/Ramen&Wok.webp" type="image/webp">
+                    <img class="card-img" src="Images/Categories/Ramen&Wok.png" alt="">
                 </picture>
                 <h2>Ramen & Wok</h2>
                 <div class="circle-icon">
@@ -182,8 +161,8 @@
         <div id="about-us-card">
             <div id="about-us-image">
                 <picture>
-                    <source srcset="Images/UmochiShopfront.webp" type="image/webp">
-                    <img src="Images/UmochiShopfront.jpg" alt="Umochi restaurant entrance at night" width="660" height="894">
+                    <source srcset="Images/Restaurant/UmochiShopfront.webp" type="image/webp">
+                    <img src="Images/Restaurant/UmochiShopfront.jpg" alt="Umochi restaurant entrance at night" width="660" height="894">
                 </picture>
                 <span class="about-badge">Family-<br>owned</span>
             </div>
@@ -195,33 +174,16 @@
         </div>
     </section>
 
-    <footer>
-        <span id="footer-logo">umochi</span>
-
-        <div id="footer-contact">
-            <h3>Contact</h3>
-            <address>
-                <a href="mailto:support@umochi.ie">support@umochi.ie</a>
-                <a href="tel:+15550123456">+1 (555) 012-3456</a>
-            </address>
-        </div>
-
-        <div id="footer-hours">
-            <h3>Opening hours</h3>
-            <p><span>Mon – Thu</span> 12:00 – 22:00</p>
-            <p><span>Fri – Sat</span> 12:00 – 23:00</p>
-            <p><span>Sunday</span> 13:00 – 21:00</p>
-        </div>
-
-        <p id="footer-copyright">&copy; 2026 Umochi. All rights reserved.</p>
-    </footer>
+    <site-footer></site-footer>
 
     <button id="to-top" aria-label="Back to top">
         <img src="Icons/arrow-up.svg" alt="" width="24">
     </button>
 
-    <script src="slider.js"></script>
-    <script src="menu.js"></script>
-    <script src="to-top.js"></script>
+    <script src="Components/Header.js"></script>
+    <script src="Components/Footer.js"></script>
+    <script src="Scripts/slider.js"></script>
+    <script src="Scripts/hamburger-button.js"></script>
+    <script src="Scripts/to-top.js"></script>
 </body>
 </html>
