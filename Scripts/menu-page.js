@@ -1,79 +1,82 @@
-const products = [
-  {
-    "name": "Sample Product",
-    "description": "This is a sample product description.",
-    "price": 19.99,
-    "category": "sushi",
-    "tags": ["spicy"],
-    "stock": 100,
-    "images": "Categories/Sushi&Rolls.png"
-  },
-  {
-    "name": "Another Sample Product",
-    "description": "This is another sample product description.",
-    "price": 29.99,
-    "category": "ramen",
-    "tags": ["vegetarian", "gluten-free"],
-    "stock": 50,
-    "images": "Categories/Ramen&Wok.png"
-  }
-]
-
-const categories = [
-  "sushi",
-  "ramen"
-]
-
-// Variables
-
 let menuItems = document.getElementById("menu-items");
-let categoryButtonsContainer = document.getElementById("category-buttons");
-let categoryButtons = document.querySelectorAll(".category-button");
+let menuButtons = document.querySelectorAll(".menu-button");
+let searchBar = document.getElementById("search-bar");
+let categories = ["sushi", "ramen", "desserts", "drinks"];
+let summary = document.getElementById("menu-summary");
+let orderBar = document.getElementById("order-bar");
+let closeButton = document.getElementById("order-close");
 
 let params = new URLSearchParams();
 let state = {
     category: "all",
+    filters: [],
+    search: "",
 }
 
-
-// 1. Get state from the URL
 
 function getParams(){
     params = new URLSearchParams(window.location.search);
     state.category = params.get("category") ?? "all";
+    const rawFilter = params.get("filter");
+    state.filters = rawFilter ? rawFilter.split(",").filter(Boolean) : [];
+    state.search = params.get("search") ?? "";
+    searchBar.value = state.search;
     render()
 }
 
 
-// 2. Render products list
+function filterFunc(product) {
+    const matchesCategory =
+        state.category === "all" || state.category === product.category;
 
-function filterFunc(product){
-    if(state.category == "all") return true;
-    return product.category == state.category;
+    const productTags = Array.isArray(product.tags) ? product.tags : [];
+    const matchesFilters = state.filters.every((filter) =>
+        productTags.includes(filter)
+    );
+
+    const searchText = state.search.toLowerCase().trim();
+    const productText = (product.name + " " + product.description).toLowerCase();
+    const matchesSearch = productText.includes(searchText);
+
+    return matchesCategory && matchesFilters && matchesSearch;
 }
+
 
 function productTemplate(product){
   return `
     <div class="menu-item">
-      <div class="menu-item-media">
-        <picture>
-          <source srcset="../Images/${product.images.replace(/\.[^.]+$/, "")}.webp" type="image/webp">
-          <img src="../Images/${product.images}" alt="${product.name}" loading="lazy">
-        </picture>
-      </div>
-      <div class="menu-item-info">
-        <h3>${product.name}</h3>
-        <p>${product.description}</p>
-      </div>
-      <div class="menu-item-actions">
-        <span>€${product.price.toFixed(2)}</span>
-        <button class="add-button" type="button" aria-label="Add ${product.name} to order">
-          <img src="../Icons/plus.svg" alt="" width="16">
-        </button>
-      </div>
+        <div class="menu-item-media">
+            <picture>
+            <source srcset="../Images/${product.images.replace(/\.[^.]+$/, "")}.webp" type="image/webp">
+            <img src="../Images/${product.images}" alt="${product.name}" loading="lazy">
+            </picture>
+        </div>
+        <div class="menu-item-info">
+            <h3>${product.name}</h3>
+            <p>${product.description}</p>
+        </div>
+        <div class="menu-item-actions">
+            <span>€${product.price.toFixed(2)}</span>
+            <button class="add-button" type="button" aria-label="Add ${product.name} to order">
+            <img src="../Icons/plus.svg" alt="" width="16">
+            </button>
+        </div>
     </div>
   `
 }
+
+
+function sectionTemplate(category, items){
+  return `
+    <section class="menu-section">
+        <h2>${category}</h2>
+        <div class="menu-section-items">
+            ${items.map(productTemplate).join("")}
+        </div>
+    </section>
+  `
+}
+
 
 function buttonTemplate(button){
   `
@@ -81,43 +84,88 @@ function buttonTemplate(button){
   `
 }
 
+
 function render(){
-    categoryButtons.forEach(function(button){
-      setPressed(button)
+    menuButtons.forEach(function(button){
+        setPressed(button)
     });
 
-    menuItems.innerHTML = products.filter(filterFunc).map(productTemplate).join("")
+    const visible = products.filter(filterFunc);
+
+    menuItems.innerHTML = categories.map(function(category){
+        const items = visible.filter(function(product){
+            return product.category === category;
+        });
+        return items.length ? sectionTemplate(category, items) : "";
+    }).join("")
 }
 
-
-// 3. Add event listeners to buttons that change state
 
 function setPressed(button){
-    let isActive = false;
-    button.getAttribute("data-category") == state.category ? isActive = true : isActive = false;
-    button.classList.toggle("active", isActive);
-    button.setAttribute("aria-pressed", isActive);
+    if (button.getAttribute("data-category") != null){
+        let isActive = false;
+        button.getAttribute("data-category") == state.category ? isActive = true : isActive = false;
+        button.classList.toggle("active", isActive);
+        button.setAttribute("aria-pressed", isActive);
+    }
+    else if (button.getAttribute("data-filter")){
+        let isActive = false;
+        state.filters.includes(button.getAttribute("data-filter")) ? isActive = true : isActive = false;
+        button.classList.toggle("active", isActive);
+        button.setAttribute("aria-pressed", isActive);
+    }
 }
 
-categoryButtons.forEach(function(item){
-    item.addEventListener("click", function(){
-        state.category = item.getAttribute("data-category")
+
+menuButtons.forEach(function (item) {
+  if (item.getAttribute("data-category") != null) {
+        item.addEventListener("click", function () {
+            state.category = item.getAttribute("data-category");
+            setParams();
+        });
+  } else if (item.getAttribute("data-filter")) {
+    item.addEventListener("click", function () {
+        const filter = item.getAttribute("data-filter");
+        if (!filter) return;
+
+        const index = state.filters.indexOf(filter);
+        if (index === -1) {
+            state.filters.push(filter);
+        } else {
+            state.filters.splice(index, 1);
+        }
         setParams();
-    })
-})
+    });
+  }
+});
 
 
-// 4. Write state to the URL
+orderBar.addEventListener("click", function () {
+    summary.showModal();
+});
+
+
+closeButton.addEventListener("click", function () {
+    summary.close();
+});
+
+
+searchBar.addEventListener("input", function () {
+    state.search = searchBar.value;
+    setParams();
+});
+
 
 function setParams(){
-    if(state.category == "all"){
-        params.delete("category");  
-        history.replaceState(null, "", location.pathname);
+    params.set("category", state.category);
+    params.set("filter", state.filters)
+    if (state.search) {
+        params.set("search", state.search);
+    } else {
+        params.delete("search");
     }
-    else{
-        params.set("category", state.category);
-        history.replaceState(null, "", "?" + params.toString());
-    }
+    console.log(params.get("filter"));
+    history.replaceState(null, "", "?" + params.toString());
     render();
 }
 
